@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grid Demo</string>
+
+    <string name="config_label_text">Configuration</string>
+    <string name="config_speed_text">Animation Speed (sec)</string>
+    <string name="config_column_width_text">Column Width</string>
+    <string name="config_column_height_text">Column Height</string>
+    <string name="config_button_text">Config</string>
+
+    <string name="default_single_item">0</string>
+
+</resources>
