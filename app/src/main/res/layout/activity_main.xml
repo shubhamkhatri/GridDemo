@@ -67,7 +67,7 @@
                     android:backgroundTint="@color/white"
                     android:drawablePadding="@dimen/padding_very_small"
                     android:hint="@string/config_column_width_text"
-                    android:inputType="numberDecimal" />
+                    android:inputType="number" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
@@ -83,7 +83,7 @@
                     android:backgroundTint="@color/white"
                     android:drawablePadding="@dimen/padding_very_small"
                     android:hint="@string/config_column_height_text"
-                    android:inputType="numberDecimal" />
+                    android:inputType="number" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
