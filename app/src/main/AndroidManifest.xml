@@ -11,8 +11,7 @@
         android:theme="@style/Theme.GridDemo">
         <activity android:name=".GridActivity"/>
         <activity android:name=".MainActivity"
-            android:screenOrientation="portrait"
-            android:label="Configurations">
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
